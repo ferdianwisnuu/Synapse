@@ -11,7 +11,7 @@ Synapse adalah asisten AI modular untuk server Discord yang dirancang super ring
 - ** Dual-Logger System:** Sistem pencatatan log otomatis yang rapi ke terminal (Console) dan file permanen (`logs/bot.log`) dengan fitur *auto-rotating* per 5MB.
 
 ## 📁 Struktur Proyek
-
+```
 synapse/
 ├── src/
 │   ├── __init__.py
@@ -31,6 +31,7 @@ synapse/
 ├── .env
 ├── index.py
 └── README.md
+```
 
 ## Teknologi
 
